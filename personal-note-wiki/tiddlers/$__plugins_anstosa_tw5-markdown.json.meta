@@ -1,0 +1,12 @@
+author: Ansel Santosa
+core-version: >=5.0.0
+created: 20200512130141131
+dependents: 
+description: Markdown
+list: readme usage
+modified: 20200512130141131
+plugin-type: plugin
+source: https://github.com/anstosa/tw5-markdown
+title: $:/plugins/anstosa/tw5-markdown
+type: application/json
+version: 1.1.4
